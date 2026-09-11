@@ -196,7 +196,7 @@
 我用了Github-flavored markdown語法，其中包含了可以確定完成進度的任務清單。
 
 
-**建立一個新的Branch以使用Github-flavored markdown的勾選功能。只要在[x]中打x，像是: [x]**
+**建立一個新的Branch以使用Github-flavored markdown的勾選功能。只要在[]中打x，像是: [x]**
 
 
     Fork一個branch，並且跟隨以下的指令
